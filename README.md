@@ -1,1 +1,2 @@
-Create master
+Create master.
+Severe bug fixed for production: hotfix 0.2.
