@@ -11,3 +11,6 @@ From this point on, "next release" means the release after 1.0.
 Some change in release_branches.
 Only bugfixes!
 Other change in release_branches.
+And other change in major_feature.
+More others changes in major_feature.
+
