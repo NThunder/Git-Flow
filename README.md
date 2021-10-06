@@ -18,3 +18,4 @@ Feature for future release.
 Some change in feature.
 Other change in feature.
 The last change in feature.
+Final commit in master.
